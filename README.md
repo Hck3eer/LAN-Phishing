@@ -28,7 +28,9 @@ A Python-based educational tool that simulates a UMT student portal phishing att
 - Flask (`pip install flask`)
 
 ### Installation
-```bash
+```
+bash
+```
 git clone https://github.com/yourusername/umt-phishing-simulator.git
 cd umt-phishing-simulator
 ```
