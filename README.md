@@ -1,13 +1,11 @@
 # LAN Phishing
- 
-Here's a professional `README.md` file for your GitHub repository:
 
-```markdown
-# UMT Portal Phishing Simulator
+```
+ UMT Portal Phishing Simulator
 
-⚠️ **Disclaimer**: This project is for **educational purposes only**. It demonstrates how phishing attacks work to raise cybersecurity awareness. Unauthorized use against real systems is illegal.
+⚠ Disclaimer: This project is for **educational purposes only**. It demonstrates how phishing attacks work to raise cybersecurity awareness. Unauthorized use against real systems is illegal.
 
-## 📌 Overview
+ Overview
 
 A Python-based educational tool that simulates a UMT student portal phishing attack, including:
 - Realistic UMT login page
@@ -15,20 +13,20 @@ A Python-based educational tool that simulates a UMT student portal phishing att
 - Credential logging (local storage only)
 - IP address tracking
 
-## 🛠️ Technical Stack
+Technical Stack
 
-- **Python 3** (Flask framework)
+- Python 3 (Flask framework)
 - HTML/CSS for frontend
 - Socket programming for log viewing
 
-## 🚀 Getting Started
+Getting Started
 
-### Prerequisites
+ Prerequisites
 - Python 3.x
 - Flask (`pip install flask`)
-
-### Installation
 ```
+Installation
+
 bash
 ```
 git clone https://github.com/yourusername/umt-phishing-simulator.git
